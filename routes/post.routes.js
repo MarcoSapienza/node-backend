@@ -1,5 +1,5 @@
 const { Router } = require('express');
-const controllers = require('../controllers');
+const controllers = require('../controllers/post.controller');
 
 const router = Router();
 
@@ -14,6 +14,5 @@ router.get('/posts/:postId', controllers.getPostById);
 router.put('/posts/:postId', controllers.updatePost);
 
 router.delete('/posts/:postId', controllers.deletePost);
-
 
 module.exports = router;

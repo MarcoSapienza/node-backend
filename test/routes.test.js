@@ -10,5 +10,11 @@ describe('Post Endpoints', () => {
             })
         expect(res.statusCode).toEqual(201)
         expect(res.body).toHaveProperty('post')
-    })
+    }),
+        it('should get all posts', async () => {
+            const res = await request(app)
+                .get('/api/posts')
+            expect(res.statusCode).toEqual(200)
+            expect(res.body).toHaveProperty('posts')
+        })
 })
