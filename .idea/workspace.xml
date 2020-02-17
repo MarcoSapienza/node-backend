@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68ecda97-8dcb-463d-8dbc-299705bd1e76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XqcqRDYI3gEt6Nwv64bv11UxZq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.1" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68ecda97-8dcb-463d-8dbc-299705bd1e76" name="Default Changelist" comment="" />
+      <created>1581777255892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581777255892</updated>
+      <workItem from="1581777267372" duration="7809000" />
+      <workItem from="1581787643641" duration="1326000" />
+      <workItem from="1581789431094" duration="4492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581777617618">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="548" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.960@0.23.1680.960" timestamp="1581777617618" />
+    <state width="1659" height="251" key="GridCell.Tab.0.bottom" timestamp="1581930056482">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1659" height="251" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1581930056482" />
+    <state width="1659" height="251" key="GridCell.Tab.0.center" timestamp="1581930056481">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1659" height="251" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1581930056481" />
+    <state width="1659" height="251" key="GridCell.Tab.0.left" timestamp="1581930056480">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1659" height="251" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1581930056480" />
+    <state width="1659" height="251" key="GridCell.Tab.0.right" timestamp="1581930056481">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state width="1659" height="251" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1581930056481" />
+  </component>
+</project>
